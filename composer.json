@@ -1,0 +1,13 @@
+{
+    "name": "amol/boilcli",
+    "description": "library to create custom boilerplate and template",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Boilcli\\": "lib/",
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
